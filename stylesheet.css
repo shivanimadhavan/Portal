@@ -1,0 +1,9 @@
+﻿body
+{
+    background-color:#c0c7bd;
+    text-align:center;
+}
+
+.outset {
+    border-style: outset;
+}
